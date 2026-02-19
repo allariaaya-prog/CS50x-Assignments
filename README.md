@@ -13,6 +13,8 @@ My journey through CS50x — a collection of problem sets and projects from Harv
 
 **Cash (Python version)**: Same as Week 1 project but in Python.
 **Other Python scripts**: Various exercises to practice Python syntax.
+**Other SQL scripts**: Various exercises to practice SQL syntax.
+
 
 ## Technologies Used
 C, Python.
